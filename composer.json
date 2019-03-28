@@ -1,0 +1,13 @@
+{
+    "name": "yinyi900828/jiabei-api",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "yinyi900828",
+            "email": "404719656@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
